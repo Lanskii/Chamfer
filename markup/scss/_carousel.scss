@@ -1,0 +1,17 @@
+.carousel-control{
+	width: 0%;
+	.glyphicon-chevron-left{
+		&:before{
+			padding: 4px 7px 4px  9px;
+			border-radius: 50%;
+			background: rgba(#000, .50);
+		}
+	}
+	.glyphicon-chevron-right{
+		&:before{
+			padding: 4px 7px 4px  9px;
+			border-radius: 50%;
+			background: rgba(#000, .50);
+		}
+	}
+}
